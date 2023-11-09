@@ -1,0 +1,96 @@
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\appsettings.Development.json
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\appsettings.json
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\tenis.exe
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\tenis.deps.json
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\tenis.runtimeconfig.json
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\tenis.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\tenis.pdb
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\System.Web.Http.Cors.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\RestSharp.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\staticwebassets\msbuild.tenis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\staticwebassets\msbuild.build.tenis.props
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.tenis.props
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.tenis.props
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\scopedcss\bundle\tenis.styles.css
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.csproj.CopyComplete
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\refint\tenis.dll
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.pdb
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\tenis.genruntimeconfig.cache
+C:\Users\amand\OneDrive\Escritorio\servidor\servidor\servidor\BackExamen\obj\Release\net6.0\ref\tenis.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\appsettings.Development.json
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\appsettings.json
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\tenis.exe
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\tenis.deps.json
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\tenis.runtimeconfig.json
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\tenis.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\tenis.pdb
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\System.Web.Http.Cors.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\RestSharp.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\staticwebassets\msbuild.tenis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\staticwebassets\msbuild.build.tenis.props
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.tenis.props
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.tenis.props
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\scopedcss\bundle\tenis.styles.css
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.csproj.CopyComplete
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\refint\tenis.dll
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.pdb
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\tenis.genruntimeconfig.cache
+C:\Users\amand\OneDrive\Escritorio\PROYECTO MSBuild\Completado\servidor\BackExamen\obj\Release\net6.0\ref\tenis.dll
